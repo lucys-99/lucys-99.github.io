@@ -25,7 +25,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 
-Hi, I'm Zhuoran Sun (Lucy), a Master's student in Computational Data Science at Carnegie Mellon University. I hold a bachelor's degree in Business Administration and a joint major in Mathematics and Computer Science from Emory University.
+Hi, I'm [Zhuoran Sun (Lucy)](https://www.linkedin.com/in/zhuoran-sun-37a345162), a Master's student in Computational Data Science at Carnegie Mellon University. I hold a bachelor's degree in Business Administration and a joint major in Mathematics and Computer Science from Emory University.
 
 ## Experiences
 
