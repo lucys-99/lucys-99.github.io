@@ -210,6 +210,17 @@ exclude:
   - _pages/publications.md
   - _pages/teaching.md
   - _pages/profiles.md
+  - _projects/1_project.md
+  - _projects/2_project.md
+  - _projects/3_project.md
+  - _projects/4_project.md
+  - _projects/5_project.md
+  - _projects/6_project.md
+  - _projects/7_project.md
+  - _projects/8_project.md
+  - _projects/9_project.md
+  - _data/cv.yml
+  - assets/json/resume.json
 
 keep_files:
   - CNAME
