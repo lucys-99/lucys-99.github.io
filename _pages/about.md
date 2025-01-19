@@ -48,7 +48,7 @@ _Bachelor of Business Administration_\
 Major 1: Information Systems\
 Major 2: Math and Computer Science\
 **GPA**: 3.95/4.0; High distinction and ISOM distinction award (top 2)\
-**Coursework**: Machine Learning for Signal Processing (A+), Introduction to Machine Learning
+**Coursework**: Machine Learning for Signal Processing (A+), Introduction to Machine Learning, Machine Learning for Large Datasets, Interactive Data Science, Cloud Computing
 
 ## Personal Interests
 
