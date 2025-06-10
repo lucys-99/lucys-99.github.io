@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Notes at CMU
-description: a project that redirects to another website
+title: CMU Intro to ML
+description: Machine Learning Basics
 img: assets/img/7.jpg
-redirect: https://github.com/lucys-99/CMU_Notes
+redirect: https://github.com/lucys-99/CMU_Notes/blob/main/IntroML_10601.md
 importance: 3
-category: work
+category: notes
 ---
 
 Every project has a beautiful feature showcase page.

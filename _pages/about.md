@@ -28,19 +28,21 @@ Hi, I'm [Zhuoran Sun (Lucy)](https://www.linkedin.com/in/zhuoran-sun-37a345162),
 
 ## Experiences
 
-I am passionate about applying data science methods across diverse industries and fields, with a particular focus on business, finance, and time-series analysis. During my time at Emory University, I contributed to academic research as a Research Assistant, where I analyzed large-scale e-commerce datasets to improve recommendation algorithms and gain insights into customer behavior.
+I am passionate about applying data science methods across diverse industries and fields, with a particular focus on business, finance, and time-series analysis.
 
-Prior to pursuing my Master’s at Carnegie Mellon University, I worked as a Quantitative Research Analyst at Truist Securities, specializing in fixed-income businesses. My role involved automating financial reporting processes, optimizing SQL queries to enhance data efficiency, and developing advanced tools for bond pricing and data manipulation. These projects leveraged my expertise in Python, Snowflake, and SQL to deliver impactful solutions for trading and research teams.
+Throughout my academic and professional journey, I have worked consistently to bridge the gap between technology and business operations by developing tools and analytics that drive meaningful outcomes. During my time at The Emory Wheel in college, I identified inefficiencies in lead tracking with Google Sheets and developed a more accessible system to streamline interactions and improve productivity.
 
-In addition to my data science experience, I enjoy designing and developing websites to improve business operations and streamline workflows. For example, I built an internal sales management platform for the Emory Wheel sales group, using Django as the backend framework. This system enabled the team to effectively track client interactions, manage inventory, and generate detailed sales reports, significantly improving operational efficiency and communication within the team.
+After graduating, I joined Truist Securities, where I built reporting pipelines to enhance the generation and visualization of key reports, helping senior management to make strategic decisions. Later, I joined the project to develop an event-driven system for tracking bid and offer prices. This system improved real-time monitoring, enabling the trading desk to make faster and more informed decisions. I was lucky to be able to lead a trading strategy analysis on bond Request for Quote data, performing time series analysis to support the electronic trading business.
+
+Currently, as a graduate student at Carnegie Mellon University in the Master of Computational Data Science program, I am gaining hands-on experience with large-scale datasets and advanced algorithms, further honing my technical and problem-solving skills.
 
 ## Education
 
 ### Carnegie Mellon University
 
 _Master of Compuational Data Science (MCDS) Analytics Track_ \
-**GPA**: 4.08/4.0\
-**Coursework**: Machine Learning for Signal Processing (A+), Introduction to Machine Learning
+**GPA**: 4.03/4.0\
+**Coursework**: Machine Learning for Signal Processing (A+), Introduction to Machine Learning, Machine Learning for Large Datasets, Interactive Data Science, Cloud Computing
 
 ### Emory University
 
@@ -48,8 +50,8 @@ _Bachelor of Business Administration_\
 Major 1: Information Systems\
 Major 2: Math and Computer Science\
 **GPA**: 3.95/4.0; High distinction and ISOM distinction award (top 2)\
-**Coursework**: Machine Learning for Signal Processing (A+), Introduction to Machine Learning, Machine Learning for Large Datasets, Interactive Data Science, Cloud Computing
+**Coursework**: Optimization, Numerical Analysis, Database Systems, Machine Learning, Data Mining
 
 ## Personal Interests
 
-I have practiced Guzheng, a traditional Chinese instrument, since I was young. I also started a Chinese music ensemble at Emory. Check out the channel if you're interested: [Emory Stream Chinese Music Ensemble](https://www.youtube.com/@emorystreamchinesemusic871)
+I have practiced Guzheng, a traditional Chinese instrument, since I was young. I started a Chinese music ensemble at Emory. Check out the channel if you're interested: [Emory Stream Chinese Music Ensemble](https://www.youtube.com/@emorystreamchinesemusic871)
