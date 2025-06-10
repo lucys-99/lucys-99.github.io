@@ -3,7 +3,7 @@ layout: page
 title: Publication
 description: OLTP In Real Life A Large-scale Study of Database Behavior in Modern Online Retail
 img: assets/img/5.jpg
-redirect: https://ieeexplore.ieee.org/document/9614295
+redirect: https://doi.org/10.1109/MASCOTS53633.2021.9614295
 importance: 3
 category: pub
 ---
