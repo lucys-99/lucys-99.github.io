@@ -3,7 +3,7 @@ layout: post
 title: "Summary of Machine Learning Optimization"
 date: 2025-02-07
 description:
-tags: concepts
+tags: ml
 categories: machine-learning
 ---
 

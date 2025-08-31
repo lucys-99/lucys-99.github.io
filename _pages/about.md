@@ -28,7 +28,7 @@ Hi, I'm [Zhuoran Sun (Lucy)](https://www.linkedin.com/in/zhuoran-sun-37a345162),
 
 ## Experiences
 
-I am passionate about applying data science methods across diverse industries and fields, with a particular focus on business, finance, and time-series analysis.
+I am passionate about applying data science methods across diverse industries and fields, to combine technical skills with business insight to drive fast, reliable, product-focused solutions for vaguely defined challenges.
 
 Throughout my academic and professional journey, I have worked consistently to bridge the gap between technology and business operations by developing tools and analytics that drive meaningful outcomes. During my time at The Emory Wheel in college, I identified inefficiencies in lead tracking with Google Sheets and developed a more accessible system to streamline interactions and improve productivity.
 
@@ -36,13 +36,25 @@ After graduating, I joined Truist Securities, where I built reporting pipelines 
 
 Currently, as a graduate student at Carnegie Mellon University in the Master of Computational Data Science program, I am gaining hands-on experience with large-scale datasets and advanced algorithms, further honing my technical and problem-solving skills.
 
+Please check out my [resume](https://lucys-99.github.io/assets/pdf/Zhuoran_Sun_resume.pdf).
+
 ## Education
 
 ### Carnegie Mellon University
 
 _Master of Compuational Data Science (MCDS) Analytics Track_ \
 **GPA**: 4.03/4.0\
-**Coursework**: Machine Learning for Signal Processing (A+), Introduction to Machine Learning, Machine Learning for Large Datasets, Interactive Data Science, Cloud Computing
+**Coursework**:
+
+- Machine Learning for Signal Processing (A+), course project: source separation of vocal and background music on song _"let it go"_.
+- TA for MLSP (Fall 2025), designing course project: maximum entropy inverse reinforcement learning with application to autonomous driving.
+- Machine Learning for Large Datasets, course project: pruning large CNN model and achieved >94% sparsity with <1% accuracy loss.
+- Interactive Data Science, course project: netflix movie recommendation dashboard.
+- Cloud Computing, course project: Twitter Recommendation with Cloud Solutions, processing 1TB+ data, building and deploying microservices to AWS clusters with Elasticache backend, achieving <5ms latency in 3hrs+ live testing, ranking top 5 in class leaderboard.
+- AI Engineering (Fall 2025), intended course project: recommendation service for a scenario of a movie streaming service with Flask and Kafka.
+- Deep Reinforcement Learning (Fall 2025)
+- Foundation of Data Science, course project: Amazon review rating prediction using Bert and LSTM with PyTorch.
+- Introduction to Machine Learning
 
 ### Emory University
 
