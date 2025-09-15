@@ -51,11 +51,21 @@ ninja.data = [{
           description: "OLTP In Real Life A Large-scale Study of Database Behavior in Modern Online Retail",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Paper/";
+            },},{id: "projects-ai-assisted-shopper",
+          title: 'AI Assisted Shopper',
+          description: "An AI-enabled shopping assistant. This program hosted on Google cloud platform generating images with items in the shopping cart.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ai_assisted_shopper/";
             },},{id: "projects-cmu-intro-to-ml",
           title: 'CMU Intro to ML',
           description: "Machine Learning Basics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/intro_ml/";
+            },},{id: "projects-maximum-entropy-inverse-reinforcement-learning",
+          title: 'Maximum Entropy Inverse Reinforcement Learning',
+          description: "Maximum Entropy Inverse Reinforcement Learning (MaxEnt IRL) implementation in Python.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/max_ent_irl/";
             },},{
         id: 'social-email',
         title: 'email',
