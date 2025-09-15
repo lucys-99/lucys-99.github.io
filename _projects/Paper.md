@@ -5,7 +5,7 @@ description: OLTP In Real Life A Large-scale Study of Database Behavior in Moder
 img: assets/img/5.jpg
 redirect: https://ieeexplore.ieee.org/document/9614295
 importance: 3
-category: pub
+category: project
 ---
 
 Every project has a beautiful feature showcase page.

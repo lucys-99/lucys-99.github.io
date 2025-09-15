@@ -1,11 +1,11 @@
 ---
 layout: page
-title: On Device Training 
-description: Project based on [MIT HAN lab's code](https://github.com/mit-han-lab/tiny-training) to perform on-device fine-tuning steps to enable large model capabilities on resource-limited devices. 
+title: On Device Training
+description: Project based on [MIT HAN lab's code](https://github.com/mit-han-lab/tiny-training) to perform on-device fine-tuning steps to enable large model capabilities on resource-limited devices.
 img: assets/img/5.jpg
-redirect: 
+redirect:
 importance: 3
-category: ai
+category: project
 ---
 
 Every project has a beautiful feature showcase page.

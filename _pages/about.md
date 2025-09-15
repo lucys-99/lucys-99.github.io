@@ -28,7 +28,7 @@ Hi, I'm [Zhuoran Sun (Lucy)](https://www.linkedin.com/in/zhuoran-sun-37a345162),
 
 ## Experiences
 
-I am passionate about applying data science methods across diverse industries and fields, to combine technical skills with business insight to drive fast, reliable, product-focused solutions for vaguely defined challenges.
+I am an engineer with 3+ years of experience designing and deploying end-to-end data systems across finance, cybersecurity, and cloud environments. Combines technical skills with business intuition and stakeholder collaboration. Proven success in internal client-facing roles requiring product thinking, rapid iteration, and reliable delivery.
 
 Throughout my academic and professional journey, I have worked consistently to bridge the gap between technology and business operations by developing tools and analytics that drive meaningful outcomes. During my time at The Emory Wheel in college, I identified inefficiencies in lead tracking with Google Sheets and developed a more accessible system to streamline interactions and improve productivity.
 

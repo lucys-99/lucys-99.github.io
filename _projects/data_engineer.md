@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Emory Wheel Sales System POC (Aug 2019)
-description: This is a POC video of the sales system designed for Emory Wheel (a student-run newspaper on Emory campus)
-img: assets/img/4.jpg
-redirect: https://youtu.be/lyY2aCXzcW8
+title: Data Engineer Project - Financial Market Data Real-time Processing
+description: A data engineering project focused on real-time processing of financial market data using cloud technologies.
+img: assets/img/6.jpg
+redirect:
 importance: 3
 category: project
 ---

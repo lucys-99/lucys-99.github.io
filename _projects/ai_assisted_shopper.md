@@ -1,11 +1,11 @@
 ---
 layout: page
-title: AI Nutritionist
-description: An AI-enabled nutrition helper. This program hosted on Google cloud platform runs OCR on the grocery receipts to help determine the nutrition intake.
+title: AI Assisted Shopper
+description: An AI-enabled shopping assistant. This program hosted on Google cloud platform generating images with items in the shopping cart.
 img: assets/img/6.jpg
-redirect:
+redirect: https://github.com/lucys-99/microservices-online-boutique-gke
 importance: 3
-category: ai
+category: project
 ---
 
 Every project has a beautiful feature showcase page.

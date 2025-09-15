@@ -5,7 +5,7 @@ description: Machine Learning Basics
 img: assets/img/7.jpg
 redirect: https://github.com/lucys-99/CMU_Notes/blob/main/IntroML_10601.md
 importance: 3
-category: notes
+category: project
 ---
 
 Every project has a beautiful feature showcase page.
