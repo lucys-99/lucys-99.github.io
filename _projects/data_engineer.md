@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Engineer Project - Financial Market Data Real-time Processing
+title: Financial Market Data Real-time Data Processing
 description: A data engineering project focused on real-time processing of financial market data using cloud technologies.
 img: assets/img/6.jpg
 redirect:

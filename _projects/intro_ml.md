@@ -1,11 +1,11 @@
 ---
 layout: page
-title: CMU Intro to ML
+title: CMU Intro to ML Notes
 description: Machine Learning Basics
 img: assets/img/7.jpg
 redirect: https://github.com/lucys-99/CMU_Notes/blob/main/IntroML_10601.md
 importance: 3
-category: project
+category: notes
 ---
 
 Every project has a beautiful feature showcase page.

@@ -2,7 +2,7 @@
 layout: page
 title: AI Assisted Shopper
 description: An AI-enabled shopping assistant. This program hosted on Google cloud platform generating images with items in the shopping cart.
-img: assets/img/6.jpg
+img: assets/img/13.jpg
 redirect: https://github.com/lucys-99/microservices-online-boutique-gke
 importance: 3
 category: project

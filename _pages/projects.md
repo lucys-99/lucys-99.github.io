@@ -5,7 +5,7 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 3
-display_categories: [notes, pub, ai, web]
+display_categories: [project, publication, notes, model_compression]
 horizontal: false
 ---
 

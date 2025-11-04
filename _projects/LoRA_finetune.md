@@ -1,11 +1,11 @@
 ---
 layout: page
-title: On Device Training
-description: Project based on [MIT HAN lab's code](https://github.com/mit-han-lab/tiny-training) to perform on-device fine-tuning steps to enable large model capabilities on resource-limited devices.
-img: assets/img/10.jpg
+title: LoRA Fine-tuning
+description: A project implementing LoRA fine-tuning for large language models.
+img: assets/img/8.jpg
 redirect:
 importance: 3
-category: project
+category: model_compression
 ---
 
 Every project has a beautiful feature showcase page.

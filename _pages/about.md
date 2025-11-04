@@ -42,18 +42,24 @@ Please check out my [resume](https://lucys-99.github.io/assets/pdf/Zhuoran_Sun_r
 
 ### Carnegie Mellon University
 
-_Master of Compuational Data Science (MCDS) Analytics Track_ \
+_Master of Computational Data Science (MCDS)_ \
 **GPA**: 4.03/4.0\
 **Coursework**:
 
-- Machine Learning for Signal Processing (A+), course project: source separation of vocal and background music on song _"let it go"_.
-- TA for MLSP (Fall 2025), designing course project: maximum entropy inverse reinforcement learning with application to autonomous driving.
-- Machine Learning for Large Datasets, course project: pruning large CNN model and achieved >94% sparsity with <1% accuracy loss.
-- Interactive Data Science, course project: netflix movie recommendation dashboard.
-- Cloud Computing, course project: Twitter Recommendation with Cloud Solutions, processing 1TB+ data, building and deploying microservices to AWS clusters with Elasticache backend, achieving <5ms latency in 3hrs+ live testing, ranking top 5 in class leaderboard.
-- AI Engineering (Fall 2025), intended course project: recommendation service for a scenario of a movie streaming service with Flask and Kafka.
-- Deep Reinforcement Learning (Fall 2025)
-- Foundation of Data Science, course project: Amazon review rating prediction using Bert and LSTM with PyTorch.
+- Machine Learning for Signal Processing (A+)
+  - course project: source separation of vocal and background music on song _"let it go"_.
+  - TA for MLSP (Fall 2025), designing course project: maximum entropy inverse reinforcement learning with application to autonomous driving.
+- Machine Learning for Large Datasets
+  - course project: pruning large CNN model and achieved >94% sparsity with <1% accuracy loss.
+- Interactive Data Science
+  - course project: netflix movie recommendation dashboard.
+- Cloud Computing
+  - course project: Twitter Recommendation with Cloud Solutions, processing 1TB+ data, building and deploying microservices to AWS clusters with Elasticache backend, achieving <5ms latency in 3hrs+ live testing, ranking top 5 in class leaderboard.
+- AI Engineering
+  - course project: recommendation service for a scenario of a movie streaming service with Flask and Kafka.
+- Deep Reinforcement Learning
+- Foundation of Data Science
+  - course project: Amazon review rating prediction using BERT and LSTM with PyTorch.
 - Introduction to Machine Learning
 
 ### Emory University
@@ -64,6 +70,6 @@ Major 2: Math and Computer Science\
 **GPA**: 3.95/4.0; High distinction and ISOM distinction award (top 2)\
 **Coursework**: Optimization, Numerical Analysis, Database Systems, Machine Learning, Data Mining
 
-## Personal Interests
+## Personal Interests & Leadership Experiences
 
 I have practiced Guzheng, a traditional Chinese instrument, since I was young. I started a Chinese music ensemble at Emory. Check out the channel if you're interested: [Emory Stream Chinese Music Ensemble](https://www.youtube.com/@emorystreamchinesemusic871)

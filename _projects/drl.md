@@ -1,11 +1,11 @@
 ---
 layout: page
-title: On Device Training
-description: Project based on [MIT HAN lab's code](https://github.com/mit-han-lab/tiny-training) to perform on-device fine-tuning steps to enable large model capabilities on resource-limited devices.
+title: CMU Deep Reinforcement Learning Notes
+description: Deep Reinforcement Learning
 img: assets/img/10.jpg
-redirect:
+redirect: https://github.com/lucys-99/CMU_Notes/blob/main/DRL/DRL%20Map.md
 importance: 3
-category: project
+category: notes
 ---
 
 Every project has a beautiful feature showcase page.
