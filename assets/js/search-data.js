@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-a-simple-inline-announcement",
+        },{id: "post-fastmcp",
+      
+        title: "FastMCP",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/fastmcp/";
+        
+      },
+    },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
@@ -56,8 +67,13 @@ ninja.data = [{
           description: "An AI-enabled shopping assistant. This program hosted on Google cloud platform generating images with items in the shopping cart.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ai_assisted_shopper/";
-            },},{id: "projects-cmu-intro-to-ml",
-          title: 'CMU Intro to ML',
+            },},{id: "projects-cmu-deep-reinforcement-learning-notes",
+          title: 'CMU Deep Reinforcement Learning Notes',
+          description: "Deep Reinforcement Learning",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/drl/";
+            },},{id: "projects-cmu-intro-to-ml-notes",
+          title: 'CMU Intro to ML Notes',
           description: "Machine Learning Basics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/intro_ml/";
